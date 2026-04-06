@@ -5,8 +5,6 @@
 **Nome do projeto:** BankFlow  
 **Integrantes:** Gabriel Naranti, João Miguel Firmino  
 **Repositório GitHub:** [Projeto Integrado](https://github.com/narantAO2/ProjetoIntegrado)  
-**Disciplina:**  
-**Data:**  
 
 ## Descrição do problema
 
