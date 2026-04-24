@@ -3,7 +3,7 @@
 ## 🧠 Scrum
 
 ### Justificativa
-O Scrum é adequado ao BankFlow porque o projeto envolve desenvolvimento incremental, validação frequente com a área financeira e integração entre backend, frontend e serviços externos.[1] Como a Sprint Review serve para inspecionar o incremento entregue e adaptar o Product Backlog com base no feedback dos stakeholders, esse modelo ajuda a alinhar a solução ao processo real de cobrança da empresa.[2][3]
+O Scrum é adequado ao BankFlow porque o projeto envolve desenvolvimento incremental, validação frequente com a área financeira e integração entre backend, frontend e serviços externos.[1] Como a Sprint Review serve para inspecionar o incremento entregue e adaptar o Product Backlog com base no feedback dos stakeholders, esse modelo ajuda a alinhar a solução ao processo real de cobrança da empresa.
 
 ***
 
@@ -11,7 +11,7 @@ O Scrum é adequado ao BankFlow porque o projeto envolve desenvolvimento increme
 
 Descreva como o projeto será executado:
 
-- **Iterações (sprints):** sprints incrementais com priorização contínua do backlog e revisão ao final de cada ciclo.[1]
+- **Iterações (sprints):** sprints incrementais com priorização contínua do backlog e revisão ao final de cada ciclo.
 - **Duração:** 1 a 2 semanas.
 - **Entregas:** funcionalidades completas por incremento, priorizando cadastro de regras, cálculo do SaaS, geração de cobranças e monitoramento de pagamentos.
 
@@ -63,7 +63,7 @@ Liste as funcionalidades:
 
 ## 🛠️ Ferramentas Utilizadas
 
-- **GitHub:** versionamento de código, armazenamento do projeto e documentação em Markdown.[4][5]
+- **GitHub:** versionamento de código, armazenamento do projeto e documentação em Markdown.
 - **Trello / Jira:** organização do backlog, acompanhamento das sprints e controle das tarefas.
 - **Outros:** Node.js, React, Postman, API do Asaas.
 
@@ -71,4 +71,4 @@ Liste as funcionalidades:
 
 ## 📌 Considerações
 
-O planejamento do BankFlow foi estruturado para permitir entregas incrementais, foco nas funcionalidades mais críticas e adaptação contínua conforme o feedback do negócio.[2][1] Além disso, a integração com o Asaas pode usar webhooks para manter a aplicação sincronizada com eventos de cobrança, o que fortalece a proposta de automação do projeto.[6][7]
+O planejamento do BankFlow foi estruturado para permitir entregas incrementais, foco nas funcionalidades mais críticas e adaptação contínua conforme o feedback do negócio.[2][1] Além disso, a integração com o Asaas pode usar webhooks para manter a aplicação sincronizada com eventos de cobrança, o que fortalece a proposta de automação do projeto.
